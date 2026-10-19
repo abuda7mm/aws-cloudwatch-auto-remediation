@@ -1,0 +1,4 @@
+aws_region            = "eu-north-1"
+monitored_instance_id = "i-0123456789abcdef0" # Replace with your own EC2 instance ID
+# notification_email = "you@example.com"  # Confirm the email subscription in your inbox.
+enable_reboot = false                  # Keep disabled unless you explicitly want EC2 reboots.
